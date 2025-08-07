@@ -11,7 +11,7 @@ Provision a **local Docker container** using **Terraform**, leveraging the Docke
 
 ---
 
-## Task Status: Completed with Ease 
+## Task Completed with Ease 
 
 This task was an exciting hands-on experience where I smoothly provisioned and managed Docker infrastructure using Terraform. Below are the key steps I followed along with relevant screenshots.
 
@@ -52,3 +52,6 @@ This task was an exciting hands-on experience where I smoothly provisioned and m
     terraform destroy
     ```
     Finally, I destroyed the Docker container and cleaned up everything Terraform had created.
+
+### Screentshots Added
+/Screenshots
