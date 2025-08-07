@@ -40,6 +40,7 @@ This task was an exciting hands-on experience where I smoothly provisioned and m
     ```
 
 5. **Verified Docker Container**
+
     I confirmed the execution, and Terraform successfully created the Docker image and container as defined.
     ```bash
     docker ps
